@@ -1,1 +1,15 @@
-{"id":"th-1940","country":"Thai","version":"Thai 1940 (พระคริสตธรรมคัมภีร์ ฉบับ 1940)"},{"id":"th-tbs","country":"Thai","version":"Thai Bible 1971 (พระคัมภีร์ไทย ฉบับ 1971)"},{"id":"th-erv","country":"Thai","version":"Thai Bible (ERV) 2001 (พระคริสตธรรมคัมภีร์: ฉบับอ่านเข้าใจง่าย)"},{"id":"th-kjv","country":"Thai","version":"Thia KJV (พระคัมภีร์ภาษาไทยฉบับ KJV)"},{"id":"th-ntv","country":"Thai","version":"Thai NTV (พระคัมภีร์ ฉบับแปลใหม่ (NTV))"},{"id":"th-tncv","country":"Thai","version":"Thai Bible (TNCV) 2007 - New Contemporary Version (พระคริสตธรรมคัมภีร์ไทย ฉบับอมตธรรมร่วมสมัย)"},{"id":"th-tsv","country":"Thai","version":"Thai Bible (THS) 2011 (ฉบับมาตรฐาน)"}
+{"id":"th-1940","country":"Thai","version":"Thai 1940 (พระคริสตธรรมคัมภีร์ ฉบับ 1940)"}
+,{"id":"th-tbs","country":"Thai","version":"Thai Bible 1971 (พระคัมภีร์ไทย ฉบับ 1971)"}
+,{"id":"th-erv","country":"Thai","version":"Thai Bible (ERV) 2001 (พระคริสตธรรมคัมภีร์: ฉบับอ่านเข้าใจง่าย)"}
+,{"id":"th-kjv","country":"Thai","version":"Thia KJV (พระคัมภีร์ภาษาไทยฉบับ KJV)"}
+,{"id":"th-ntv","country":"Thai","version":"Thai NTV (พระคัมภีร์ ฉบับแปลใหม่ (NTV))"}
+,{"id":"th-tncv","country":"Thai","version":"Thai Bible (TNCV) 2007 - New Contemporary Version (พระคริสตธรรมคัมภีร์ไทย ฉบับอมตธรรมร่วมสมัย)"}
+,{"id":"th-tsv","country":"Thai","version":"Thai Bible (THS) 2011 (ฉบับมาตรฐาน)"}
+,{"id":"en-csb","country":"English","version":"English CSB 2017 - Christian Standard Bible"}
+,{"id":"en-esv","country":"English","version":"English ESV 2016 - English Standard Version"}
+,{"id":"en-hcsb","country":"English","version":"English HCSB 2004 - Holman Christian Standard Bible"}
+,{"id":"en-kjv","country":"English","version":"English King James Version (KJV)"}
+,{"id":"en-niv","country":"English","version":"New International Version (NIV)"}
+,{"id":"en-nkjv","country":"English","version":"New King James Version (NKJV)"}
+,{"id":"en-nlt","country":"English","version":"New Living Translation (NLT)"}
+,{"id":"en-nrsv","country":"English","version":"New Revised Standard Version (NRSV)"}
