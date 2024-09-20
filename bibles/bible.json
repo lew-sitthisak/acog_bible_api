@@ -12,4 +12,11 @@
 ,{"id":"en-niv","country":"English","version":"New International Version (NIV)"}
 ,{"id":"en-nkjv","country":"English","version":"New King James Version (NKJV)"}
 ,{"id":"en-nlt","country":"English","version":"New Living Translation (NLT)"}
-,{"id":"en-nrsv","country":"English","version":"New Revised Standard Version (NRSV)"}]
+,{"id":"en-nrsv","country":"English","version":"New Revised Standard Version (NRSV)"}
+,{"id":"kr-nkrv","country":"Korean","version":"Korean NKRV Bible 1998"}
+,{"id":"kr-aeb","country":"Korean","version":"Korean Agape Easy Bible AEB Bible 1994 - Copyrighted"}
+,{"id":"kr-kbs","country":"Korean","version":"Korean 1961 (개역한글)"}
+,{"id":"kr-klb","country":"Korean","version":"Korean KLB (현대인의 성경)"}
+,{"id":"kr-rnksv","country":"Korean","version":"Korean RNKSV (새번역)"}
+,{"id":"kr-tkv","country":"Korean","version":"Today's Korean Version TKV 1991"}
+,{"id":"kr-kw","country":"Korean","version":"Korean Woorimal 2004"}]
