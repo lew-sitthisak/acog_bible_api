@@ -19,4 +19,11 @@
 ,{"id":"kr-klb","country":"Korean","version":"Korean KLB (현대인의 성경)"}
 ,{"id":"kr-rnksv","country":"Korean","version":"Korean RNKSV (새번역)"}
 ,{"id":"kr-tkv","country":"Korean","version":"Today's Korean Version TKV 1991"}
-,{"id":"kr-kw","country":"Korean","version":"Korean Woorimal 2004"}]
+,{"id":"kr-kw","country":"Korean","version":"Korean Woorimal 2004"}
+,{"id":"cn-buv2010","country":"Chinese","version":"Chinese Bible Union Version 2010 (Traditional) (（和合本修訂版） （繁體字） 神版)"}
+,{"id":"cn-cnvt","country":"Chinese","version":"Chinese Bible CNVT (Traditional) - (新譯本)"}
+,{"id":"cn-rcuvss","country":"Chinese","version":"Chinese Bible RCUVSS (Simplified) (和合本修订版)"}
+,{"id":"cn-rcuvt","country":"Chinese","version":"Chinese Bible RCUV (Traditional) (和合本修訂版)"}
+,{"id":"cn-terv","country":"Chinese","version":"Chinese Traditional ERV 2006"}
+,{"id":"cn-ut1919","country":"Chinese","version":"Chinese Union Traditional 1919"}
+]
