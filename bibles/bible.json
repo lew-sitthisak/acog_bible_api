@@ -23,5 +23,12 @@
 ,{"id":"cn-cnvt","country":"Chinese","version":"Chinese Bible CNVT (Traditional) - (新譯本)"}
 ,{"id":"cn-terv","country":"Chinese","version":"Chinese Traditional ERV 2006"}
 ,{"id":"cn-ut1919","country":"Chinese","version":"Chinese Union Traditional 1919"}
-,{"id":"la-lb2012","country":"Lao","version":"Lao Bible 2012 (ພຣະຄຳພີສັກສິ)"}
+,{"id":"la-lb2012","country":"Lao","version":"Lao Bible 2012 (ພຣະຄຳພີສັກສິ)"
+,{"id":"es-dhh","country":"Lao","version":"Spanish DHH 1996"
+,{"id":"es-lbla","country":"Lao","version":"Spanish Bible LBLB (La Biblia De Las Américas) 1997"
+,{"id":"es-nvi","country":"Lao","version":"Spanish NVI Bible - Nueva Versión Internacional"
+,{"id":"es-rrvr1960","country":"Lao","version":"Spanish Reina-Valera RVR 1960 (Revised Reina Valera 1960)"
+,{"id":"es-rv2020","country":"Lao","version":"Spanish RV2020 (Reina Valera 2020)"
+,{"id":"es-rvr1960","country":"Lao","version":"Spanish Reina Valera 1960"
+,{"id":"es-rvr1995","country":"Lao","version":"Spanish Reina-Valera 1995 (RVR1995)"}
 ]
